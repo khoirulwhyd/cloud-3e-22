@@ -3,7 +3,7 @@
 |  |  |
 |--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/hbb-polinema) |
-| Tahun Ajaran | Genap 2021/2022 |
+| Tahun Ajaran | Ganjil 2021/2022 |
 | Email | habibie@polinema.ac.id |
 | Institusi | jti.polinema.ac.id |
 
